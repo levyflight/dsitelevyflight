@@ -26,3 +26,7 @@ git push origin master
 # Come Back
 cd ..
 
+git add -A
+git commit -am "updated"
+git push -u origin master
+

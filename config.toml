@@ -2,7 +2,7 @@
 #
 baseurl = "https://levyflight.github.io/"
 languageCode = "en-us"
-title = "Hugo Foundation 6 Blog"
+title = "Levy Flight"
 theme = "hugo-theme-foundation6-blog"
 # number of posts to show on home/category/tag pages (Default: 10)
 paginate = 5
@@ -15,13 +15,13 @@ paginate = 5
   post = "/:year/:month/:title/"
   page = "/:slug/"
 
-[[menu.sidebar]]
-  name = "Link 1"
-  url = "https://example.com"
+#[[menu.sidebar]]
+#  name = "Link 1"
+#  url = "https://example.com"
 
-[[menu.sidebar]]
-  name = "Link 2"
-  url = "https://example.org"
+#[[menu.sidebar]]
+#  name = "Link 2"
+#  url = "https://example.org"
 
 # custom navbar menu entry.   See the custom_navbar parameter below for
 # details.
