@@ -35,10 +35,10 @@ paginate = 5
 #
 [params]
   # Site author
-  author = "Your Name"
+  author = "LevyFlight"
 
   # Description/subtitle for homepage (can be Markdown)
-  description = "A simple Hugo theme based on the Foundation 6 blog (w/ sidebar) example."
+  description = ""
 
   # Format dates with Go's time formatting
   date_format = "Mon Jan 02, 2006"
@@ -70,7 +70,7 @@ paginate = 5
 
   [params.sidebar]
     # Optional about block for sidebar (can be Markdown)
-    about = "A simple Hugo theme based on the [Foundation 6 blog (w/ sidebar) example](http://foundation.zurb.com/templates-previews-sites-f6/blog.html)."
+    about = "A levy flight through a mutliple subjects."
 
     # How many posts to show on the sidebar (Default: 5)
     #num_recent_posts = 2
