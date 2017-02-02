@@ -1,0 +1,3 @@
+#!/bin/bash
+~/software/go/bin/hugo -t hugo-theme-bootstrap4-blog server
+#hugo -t bootie-docs server
