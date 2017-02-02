@@ -5,8 +5,8 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
 #~/software/go/bin/hugo -t academic #if using a theme, replace by `hugo -t <yourtheme>`
-#~/software/go/bin/hugo -t hugo-theme-foundation6-blog 
-~/software/go/bin/hugo -t hugo-theme-bootstrap4-blog
+~/software/go/bin/hugo -t hugo-theme-foundation6-blog 
+#~/software/go/bin/hugo -t hugo-theme-bootstrap4-blog
 
 
 # Go To Public folder
