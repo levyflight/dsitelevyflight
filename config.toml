@@ -2,7 +2,7 @@
 #
 baseurl = "https://levyflight.github.io/"
 languageCode = "en-us"
-title = "Levy Flight"
+title = "LEVY FLIGHT"
 theme = "hugo-theme-foundation6-blog"
 # number of posts to show on home/category/tag pages (Default: 10)
 paginate = 5
@@ -42,7 +42,7 @@ paginate = 5
   author = "LevyFlight"
 
   # Description/subtitle for homepage (can be Markdown)
-  description = "A levy flight through a mutliple subjects"
+  description = "A LEVY FLIGHT THROUGH  MULTIPLE SUBJECTS"
 
   # Format dates with Go's time formatting
   date_format = "Mon Jan 02, 2006"
