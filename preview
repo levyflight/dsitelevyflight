@@ -1,4 +1,4 @@
 #!/bin/bash
-#~/software/go/bin/hugo -t hugo-theme-foundation6-blog server
-~/software/go/bin/hugo -t Mainroad server
+~/software/go/bin/hugo -t hugo-theme-foundation6-blog server
+#~/software/go/bin/hugo -t Mainroad server
 #hugo -t bootie-docs server
