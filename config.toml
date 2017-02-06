@@ -42,7 +42,7 @@ paginate = 5
   author = "LevyFlight"
 
   # Description/subtitle for homepage (can be Markdown)
-  description = ""
+  description = "A levy flight through a mutliple subjects"
 
   # Format dates with Go's time formatting
   date_format = "Mon Jan 02, 2006"
@@ -74,7 +74,7 @@ paginate = 5
 
   [params.sidebar]
     # Optional about block for sidebar (can be Markdown)
-    about = "A levy flight through a mutliple subjects."
+    #about = "A levy flight through a mutliple subjects."
 
     # How many posts to show on the sidebar (Default: 5)
     #num_recent_posts = 2
