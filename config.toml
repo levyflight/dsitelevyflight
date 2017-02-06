@@ -1,4 +1,4 @@
-baseurl = "http://levyflight.github.io/"
+baseurl = "http://levyflight.github.io"
 title = "Levy Flight"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
