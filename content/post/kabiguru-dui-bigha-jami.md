@@ -2,12 +2,12 @@
 title = "দুই বিঘা জমি,   রবীন্দ্রনাথ ঠাকুর "
 description = ""
 tags = [
-    "",
+    "Rabindranath Thakur",
+    
 ]
 date = "2016-05-01"
 categories = [
     "Bengali Poem",
-    "Rabindranath Thakur",
 ]
 menu = "main"
 +++
