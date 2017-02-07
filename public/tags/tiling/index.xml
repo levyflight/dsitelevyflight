@@ -18,9 +18,7 @@
 
 &lt;p&gt;To merge &lt;a href=&#34;img/imagemagick/sphere.png&#34;&gt;sphere.png&lt;/a&gt;, &lt;a href=&#34;img/imagemagick/circle.png&#34;&gt;circle.png&lt;/a&gt;, &lt;a href=&#34;img/imagemagick/box.png&#34;&gt;box.png&lt;/a&gt; and &lt;a href=&#34;img/imagemagick/cone.png&#34;&gt;cone.png&lt;/a&gt; the command using montage is&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;
-montage sphere.png circle.png box.png cone.png -tile 4x1 -geometry +2+2 output.png
-
+&lt;pre&gt;&lt;code&gt;montage sphere.png circle.png box.png cone.png -tile 4x1 -geometry +2+2 output.png
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -29,16 +27,36 @@ montage sphere.png circle.png box.png cone.png -tile 4x1 -geometry +2+2 output.p
 
 &lt;p&gt;Here tile gives a layout (in this case 4x1) and geometry gives spaces between images (in this case 2 pixel both in x and y axes).&lt;/p&gt;
 
-&lt;p&gt;To give label to each images:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To give label to each images:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;
-montage -label Sphere sphere.png -label Circle circle.png -label Box box.png -label Cone cone.png -tile 4x1 -geometry +2+2 -pointsize 70 output1.png
-
+&lt;pre&gt;&lt;code&gt;montage -label Sphere sphere.png -label Circle circle.png -label Box box.png -label 
+Cone cone.png -tile 4x1 -geometry +2+2 -pointsize 70 output1.png                    
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;img/imagemagick/output1.png#center&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Label on top of the image:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;To give a label on top of a image one can use convert command with gravity :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;convert sphere.png -pointsize 70 -draw &amp;quot;gravity northwest fill black text 10,12 
+&#39;a&#39; &amp;quot; sphere1.png                                                               
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/imagemagick/sphere1.png&#34; width=&#34;40%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;And then you can merge all the labelled figures:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;montage sphere1.png circle1.png box1.png cone1.png colbar2.png -tile x1 -geometry 
++2+2 output2.png                                                                  
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;img src=&#34;img/imagemagick/output2.png#center&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

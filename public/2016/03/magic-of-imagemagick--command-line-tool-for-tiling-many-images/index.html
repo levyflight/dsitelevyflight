@@ -29,7 +29,7 @@
 
 
 <meta itemprop="dateModified" content="2016-03-04T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="150">
+<meta itemprop="wordCount" content="207">
 
 
 
@@ -174,9 +174,7 @@
 
 <p>To merge <a href="img/imagemagick/sphere.png">sphere.png</a>, <a href="img/imagemagick/circle.png">circle.png</a>, <a href="img/imagemagick/box.png">box.png</a> and <a href="img/imagemagick/cone.png">cone.png</a> the command using montage is</p>
 
-<pre><code>
-montage sphere.png circle.png box.png cone.png -tile 4x1 -geometry +2+2 output.png
-
+<pre><code>montage sphere.png circle.png box.png cone.png -tile 4x1 -geometry +2+2 output.png
 </code></pre>
 
 <p><br></p>
@@ -185,16 +183,36 @@ montage sphere.png circle.png box.png cone.png -tile 4x1 -geometry +2+2 output.p
 
 <p>Here tile gives a layout (in this case 4x1) and geometry gives spaces between images (in this case 2 pixel both in x and y axes).</p>
 
-<p>To give label to each images:</p>
+<p><strong>To give label to each images:</strong></p>
 
-<pre><code>
-montage -label Sphere sphere.png -label Circle circle.png -label Box box.png -label Cone cone.png -tile 4x1 -geometry +2+2 -pointsize 70 output1.png
-
+<pre><code>montage -label Sphere sphere.png -label Circle circle.png -label Box box.png -label 
+Cone cone.png -tile 4x1 -geometry +2+2 -pointsize 70 output1.png                    
 </code></pre>
 
 <p><br></p>
 
 <p><img src="img/imagemagick/output1.png#center" alt="" /></p>
+
+<p><strong>Label on top of the image:</strong></p>
+
+<p>To give a label on top of a image one can use convert command with gravity :</p>
+
+<pre><code>convert sphere.png -pointsize 70 -draw &quot;gravity northwest fill black text 10,12 
+'a' &quot; sphere1.png                                                               
+</code></pre>
+
+<p><br></p>
+
+<p><img src="img/imagemagick/sphere1.png" width="40%"></p>
+
+<p>And then you can merge all the labelled figures:</p>
+
+<pre><code>montage sphere1.png circle1.png box1.png cone1.png colbar2.png -tile x1 -geometry 
++2+2 output2.png                                                                  
+</code></pre>
+
+<p><br>
+<img src="img/imagemagick/output2.png#center" alt="" /></p>
 
     </p>
     
