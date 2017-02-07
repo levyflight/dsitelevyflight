@@ -93,6 +93,7 @@ pre {
   font-family: monospace, monospace;
   /* 1 */
   font-size: 1em;
+  white-space: pre-wrap;
   /* 2 */ }
 
 /* Links
@@ -1469,6 +1470,8 @@ code {
   font-family: Consolas, "Liberation Mono", Courier, monospace;
   font-weight: normal;
   color: #0a0a0a; }
+
+
 
 kbd {
   margin: 0;

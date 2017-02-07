@@ -33,8 +33,7 @@ Here tile gives a layout (in this case 4x1) and geometry gives spaces between im
 **To give label to each images:**
 
 ```
-montage -label Sphere sphere.png -label Circle circle.png -label Box box.png -label 
-Cone cone.png -tile 4x1 -geometry +2+2 -pointsize 70 output1.png                    
+montage -label Sphere sphere.png -label Circle circle.png -label Box box.png -label Cone cone.png -tile 4x1 -geometry +2+2 -pointsize 70 output1.png
 ```
 <br>
 
@@ -47,9 +46,9 @@ To give a label on top of a image one can use convert command with gravity :
 
 
 ```
-convert sphere.png -pointsize 70 -draw "gravity northwest fill black text 10,12 
-'a' " sphere1.png                                                               
+convert sphere.png -pointsize 70 -draw "gravity northwest fill black text 10,12 'a' " sphere1.png
 ```
+
 <br>
 
 <img src="img/imagemagick/sphere1.png" width="40%">
@@ -57,8 +56,7 @@ convert sphere.png -pointsize 70 -draw "gravity northwest fill black text 10,12
 And then you can merge all the labelled figures: 
 
 ```
-montage sphere1.png circle1.png box1.png cone1.png colbar2.png -tile x1 -geometry 
-+2+2 output2.png                                                                  
+montage sphere1.png circle1.png box1.png cone1.png colbar2.png -tile x1 -geometry +2+2 output2.png
 ```
 <br>
 ![](img/imagemagick/output2.png#center)

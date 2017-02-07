@@ -29,8 +29,7 @@
 
 &lt;p&gt;&lt;strong&gt;To give label to each images:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;montage -label Sphere sphere.png -label Circle circle.png -label Box box.png -label 
-Cone cone.png -tile 4x1 -geometry +2+2 -pointsize 70 output1.png                    
+&lt;pre&gt;&lt;code&gt;montage -label Sphere sphere.png -label Circle circle.png -label Box box.png -label Cone cone.png -tile 4x1 -geometry +2+2 -pointsize 70 output1.png
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -41,8 +40,7 @@ Cone cone.png -tile 4x1 -geometry +2+2 -pointsize 70 output1.png
 
 &lt;p&gt;To give a label on top of a image one can use convert command with gravity :&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;convert sphere.png -pointsize 70 -draw &amp;quot;gravity northwest fill black text 10,12 
-&#39;a&#39; &amp;quot; sphere1.png                                                               
+&lt;pre&gt;&lt;code&gt;convert sphere.png -pointsize 70 -draw &amp;quot;gravity northwest fill black text 10,12 &#39;a&#39; &amp;quot; sphere1.png
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -51,8 +49,7 @@ Cone cone.png -tile 4x1 -geometry +2+2 -pointsize 70 output1.png
 
 &lt;p&gt;And then you can merge all the labelled figures:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;montage sphere1.png circle1.png box1.png cone1.png colbar2.png -tile x1 -geometry 
-+2+2 output2.png                                                                  
+&lt;pre&gt;&lt;code&gt;montage sphere1.png circle1.png box1.png cone1.png colbar2.png -tile x1 -geometry +2+2 output2.png
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;&lt;br&gt;
