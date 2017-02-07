@@ -2,7 +2,7 @@
 title = "দুই বিঘা জমি,   রবীন্দ্রনাথ ঠাকুর "
 description = ""
 tags = [
-    "Rabindranath Thakur",
+    "Rabindranath Tagore",
     
 ]
 date = "2016-05-01"
