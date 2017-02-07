@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Imagemagick on LEVY FLIGHT</title>
+    <link>https://levyflight.github.io/categories/imagemagick/index.xml</link>
+    <description>Recent content in Imagemagick on LEVY FLIGHT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://levyflight.github.io/categories/imagemagick/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Magic of ImageMagick : Command line tool for tiling many images</title>
+      <link>https://levyflight.github.io/2016/03/magic-of-imagemagick--command-line-tool-for-tiling-many-images/</link>
+      <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://levyflight.github.io/2016/03/magic-of-imagemagick--command-line-tool-for-tiling-many-images/</guid>
+      <description>&lt;p&gt;Do you play with images? Do you often merge images to create a single image for you research article? There are many softwares (&lt;a href=&#34;https://www.gimp.org/&#34;&gt;gimp&lt;/a&gt;, &lt;a href=&#34;https://inkscape.org/en/&#34;&gt;inkscape&lt;/a&gt;) by which you can merge images and give a label on top of the images. But if you are looking for a command line tool to merge images one of the best option is &lt;a href=&#34;http://www.imagemagick.org/script/index.php&#34;&gt;ImageMagick&lt;/a&gt;. A very good tutorial for merging images into one image using ImgaeMagick can be found &lt;a href=&#34;http://www.imagemagick.org/Usage/montage/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;To merge &lt;a href=&#34;img/imagemagick/sphere.png&#34;&gt;sphere.png&lt;/a&gt;, &lt;a href=&#34;img/imagemagick/circle.png&#34;&gt;circle.png&lt;/a&gt;, &lt;a href=&#34;img/imagemagick/box.png&#34;&gt;box.png&lt;/a&gt; and &lt;a href=&#34;img/imagemagick/cone.png&#34;&gt;cone.png&lt;/a&gt; the command using montage is&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;
+montage sphere.png circle.png box.png cone.png -tile 4x1 -geometry +2+2 output.png
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/imagemagick/output.png#center&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here tile gives a layout (in this case 4x1) and geometry gives spaces between images (in this case 2 pixel both in x and y axes).&lt;/p&gt;
+
+&lt;p&gt;To give label to each images:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;
+montage -label Sphere sphere.png -label Circle circle.png -label Box box.png -label Cone cone.png -tile 4x1 -geometry +2+2 -pointsize 70 output1.png
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/imagemagick/output1.png#center&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
