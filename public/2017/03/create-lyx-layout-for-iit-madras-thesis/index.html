@@ -31,7 +31,7 @@
 
 
 <meta itemprop="dateModified" content="2017-03-27T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="251">
+<meta itemprop="wordCount" content="255">
 
 
 
@@ -184,8 +184,10 @@
 
 <ul>
 <li>Go to your main folder of latex. To know the main folder of the latex, you can search article.cls in the / directory.</li>
-<li><code> cd \ <br> 
-   sudo find -name article.cls </code></li>
+<li><code><div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span> <span style="color: #a6e22e">cd</span> <span style="color: #960050; background-color: #1e0010">\</span> <span style="color: #f8f8f2">&lt;</span><span style="color: #a6e22e">br</span><span style="color: #f8f8f2">&gt;</span> 
+   <span style="color: #a6e22e">sudo</span> <span style="color: #a6e22e">find</span> <span style="color: #f92672">-</span><span style="color: #a6e22e">name</span> <span style="color: #a6e22e">article</span><span style="color: #f8f8f2">.</span><span style="color: #a6e22e">cls</span> 
+</pre></div>
+</code></li>
 <li>in my system output is <code>./usr/share/texmf-dist/tex/latex/base/article.cls</code> . So the location of the main folder of latex is <code>/usr/share/texmf-dist/tex/latex/</code></li>
 <li><code>cd /usr/share/texmf-dist/tex/latex</code></li>
 <li>Create a new folder &ldquo;iitmdiss&rdquo; in this main folder of latex: <code>sudo mkdir iitmdiss</code></li>
@@ -198,10 +200,12 @@
 <li>go to lyx layouts folder. In my system it is <code>/usr/share/lyx/layouts</code></li>
 <li>create a new file called &lsquo;iitmdiss.layout&rsquo;</li>
 <li>open the &lsquo;iitmdiss.layout&rsquo; file and write</li>
-<li><code> #% Do not delete the line below; configure depends on this <br>
-    # \DeclareLaTeXClass[iitmdiss]{article (iitmdiss)} <br>  
-    # Input general definitions <br>  
-    Input stdclass.inc  </code></li>
+<li><code><div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span> <span style="color: #960050; background-color: #1e0010">#</span><span style="color: #f92672">%</span> <span style="color: #a6e22e">Do</span> <span style="color: #a6e22e">not</span> <span style="color: #a6e22e">delete</span> <span style="color: #a6e22e">the</span> <span style="color: #a6e22e">line</span> <span style="color: #a6e22e">below</span><span style="color: #f8f8f2">;</span> <span style="color: #a6e22e">configure</span> <span style="color: #a6e22e">depends</span> <span style="color: #a6e22e">on</span> <span style="color: #a6e22e">this</span> <span style="color: #f8f8f2">&lt;</span><span style="color: #a6e22e">br</span><span style="color: #f8f8f2">&gt;</span>
+    <span style="color: #960050; background-color: #1e0010">#</span> <span style="color: #960050; background-color: #1e0010">\</span><span style="color: #a6e22e">DeclareLaTeXClass</span><span style="color: #f8f8f2">[</span><span style="color: #a6e22e">iitmdiss</span><span style="color: #f8f8f2">]{</span><span style="color: #a6e22e">article</span> <span style="color: #f8f8f2">(</span><span style="color: #a6e22e">iitmdiss</span><span style="color: #f8f8f2">)}</span> <span style="color: #f8f8f2">&lt;</span><span style="color: #a6e22e">br</span><span style="color: #f8f8f2">&gt;</span>  
+    <span style="color: #960050; background-color: #1e0010">#</span> <span style="color: #a6e22e">Input</span> <span style="color: #a6e22e">general</span> <span style="color: #a6e22e">definitions</span> <span style="color: #f8f8f2">&lt;</span><span style="color: #a6e22e">br</span><span style="color: #f8f8f2">&gt;</span>  
+    <span style="color: #a6e22e">Input</span> <span style="color: #a6e22e">stdclass</span><span style="color: #f8f8f2">.</span><span style="color: #a6e22e">inc</span>  
+</pre></div>
+</code></li>
 </ul></li>
 <li>To update this layout in Lyx, you need to reconfigure lyx: Tools &ndash;&gt; Reconfigure. Now resatrt the lyx and you will be able to get iitmdiss layout from Document &ndash;&gt; Settings&hellip; &ndash;&gt; Change Document class.</li>
 </ol>
