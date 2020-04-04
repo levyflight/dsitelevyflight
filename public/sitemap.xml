@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://levyflight.github.io/2020/04/%E0%A6%85%E0%A6%AD%E0%A6%BE%E0%A6%97%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%97---%E0%A6%B6%E0%A6%B0%E0%A7%8E-%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A7%9F/</loc>
+    <lastmod>2020-04-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://levyflight.github.io/2019/05/%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF---%E0%A6%B0%E0%A6%AC%E0%A7%80%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%A8%E0%A6%BE%E0%A6%A5-%E0%A6%A0%E0%A6%BE%E0%A6%95%E0%A7%81%E0%A6%B0/</loc>
     <lastmod>2019-05-08T00:00:00+00:00</lastmod>
   </url>
@@ -73,6 +78,12 @@
   </url>
   
   <url>
+    <loc>https://levyflight.github.io/categories/bengali-short-story/</loc>
+    <lastmod>2020-04-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://levyflight.github.io/categories/</loc>
     <priority>0</priority>
   </url>
@@ -102,6 +113,12 @@
   </url>
   
   <url>
+    <loc>https://levyflight.github.io/categories/inequality/</loc>
+    <lastmod>2020-04-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://levyflight.github.io/tags/jibanananda-das/</loc>
     <lastmod>2016-04-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -127,7 +144,7 @@
   
   <url>
     <loc>https://levyflight.github.io/</loc>
-    <lastmod>2019-05-08T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -151,13 +168,19 @@
   
   <url>
     <loc>https://levyflight.github.io/post/</loc>
-    <lastmod>2019-05-08T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://levyflight.github.io/tags/rabindranath-tagore/</loc>
     <lastmod>2019-05-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://levyflight.github.io/tags/sarat-chandra-chattopadhyay/</loc>
+    <lastmod>2020-04-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
