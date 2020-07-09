@@ -6,8 +6,46 @@
     <description>Recent content in Posts on LEVY FLIGHT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://levyflight.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>সব লোকে কয়, লালন কি জাত সংসারে,    লালন ফকির </title>
+      <link>https://levyflight.github.io/2020/07/%E0%A6%B8%E0%A6%AC-%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A7%9F-%E0%A6%B2%E0%A6%BE%E0%A6%B2%E0%A6%A8-%E0%A6%95%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%A4-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%87----%E0%A6%B2%E0%A6%BE%E0%A6%B2%E0%A6%A8-%E0%A6%AB%E0%A6%95%E0%A6%BF%E0%A6%B0/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://levyflight.github.io/2020/07/%E0%A6%B8%E0%A6%AC-%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A7%9F-%E0%A6%B2%E0%A6%BE%E0%A6%B2%E0%A6%A8-%E0%A6%95%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%A4-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%87----%E0%A6%B2%E0%A6%BE%E0%A6%B2%E0%A6%A8-%E0%A6%AB%E0%A6%95%E0%A6%BF%E0%A6%B0/</guid>
+      <description>&lt;p&gt;সব লোকে কয়, লালন কি জাত সংসারে ।&lt;/p&gt;
+
+&lt;p&gt;লালন বলে, জাতির কি রূপ , দেখলাম না এই নজরে ।।&lt;/p&gt;
+
+&lt;p&gt;কেউ মালা কেউ তসবীর গলে&lt;/p&gt;
+
+&lt;p&gt;তাইত রে জাত ভিন্ন বলে&lt;/p&gt;
+
+&lt;p&gt;যাওয়া কিম্বা আসার বেলায়&lt;/p&gt;
+
+&lt;p&gt;জাতের চিহ্ন  রয় কারে।।&lt;/p&gt;
+
+&lt;p&gt;ছুন্নৎ  দিলে হয় মুসলমান&lt;/p&gt;
+
+&lt;p&gt;নারীর তবে কি হয় বিধান&lt;/p&gt;
+
+&lt;p&gt;বামন চিনি পৈতেয় প্রমাণ&lt;/p&gt;
+
+&lt;p&gt;বামনী চিনি  কি প্রকারে ।।&lt;/p&gt;
+
+&lt;p&gt;জগৎ বেড়ে জাতির কথা&lt;/p&gt;
+
+&lt;p&gt;লোকে গল্প করে যথাতথা&lt;/p&gt;
+
+&lt;p&gt;লালন বলে, জাতির ফাৎনা&lt;/p&gt;
+
+&lt;p&gt;ডুবিয়েছে  সাধ-বাজারে ।।&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://levyflight.github.io/doc/bengali-poem/sob-loke-koy.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Abhagi&#39;s Heaven,   Sarat Chandra Chattopadhyay  </title>
@@ -688,8 +726,10 @@
 
 &lt;ul&gt;
 &lt;li&gt;Go to your main folder of latex. To know the main folder of the latex, you can search article.cls in the / directory.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt; cd \ &lt;br&gt; 
-   sudo find -name article.cls &lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;&lt;div class=&#34;highlight&#34; style=&#34;background: #272822&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt; &lt;span style=&#34;color: #a6e22e&#34;&gt;cd&lt;/span&gt; &lt;span style=&#34;color: #960050; background-color: #1e0010&#34;&gt;\&lt;/span&gt; &lt;span style=&#34;color: #f8f8f2&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&#34;color: #a6e22e&#34;&gt;br&lt;/span&gt;&lt;span style=&#34;color: #f8f8f2&#34;&gt;&amp;gt;&lt;/span&gt; 
+   &lt;span style=&#34;color: #a6e22e&#34;&gt;sudo&lt;/span&gt; &lt;span style=&#34;color: #a6e22e&#34;&gt;find&lt;/span&gt; &lt;span style=&#34;color: #f92672&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color: #a6e22e&#34;&gt;name&lt;/span&gt; &lt;span style=&#34;color: #a6e22e&#34;&gt;article&lt;/span&gt;&lt;span style=&#34;color: #f8f8f2&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #a6e22e&#34;&gt;cls&lt;/span&gt; 
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;in my system output is &lt;code&gt;./usr/share/texmf-dist/tex/latex/base/article.cls&lt;/code&gt; . So the location of the main folder of latex is &lt;code&gt;/usr/share/texmf-dist/tex/latex/&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;cd /usr/share/texmf-dist/tex/latex&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Create a new folder &amp;ldquo;iitmdiss&amp;rdquo; in this main folder of latex: &lt;code&gt;sudo mkdir iitmdiss&lt;/code&gt;&lt;/li&gt;
@@ -702,10 +742,12 @@
 &lt;li&gt;go to lyx layouts folder. In my system it is &lt;code&gt;/usr/share/lyx/layouts&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;create a new file called &amp;lsquo;iitmdiss.layout&amp;rsquo;&lt;/li&gt;
 &lt;li&gt;open the &amp;lsquo;iitmdiss.layout&amp;rsquo; file and write&lt;/li&gt;
-&lt;li&gt;&lt;code&gt; #% Do not delete the line below; configure depends on this &lt;br&gt;
-    # \DeclareLaTeXClass[iitmdiss]{article (iitmdiss)} &lt;br&gt;  
-    # Input general definitions &lt;br&gt;  
-    Input stdclass.inc  &lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;&lt;div class=&#34;highlight&#34; style=&#34;background: #272822&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt; &lt;span style=&#34;color: #960050; background-color: #1e0010&#34;&gt;#&lt;/span&gt;&lt;span style=&#34;color: #f92672&#34;&gt;%&lt;/span&gt; &lt;span style=&#34;color: #a6e22e&#34;&gt;Do&lt;/span&gt; &lt;span style=&#34;color: #a6e22e&#34;&gt;not&lt;/span&gt; &lt;span style=&#34;color: #a6e22e&#34;&gt;delete&lt;/span&gt; &lt;span style=&#34;color: #a6e22e&#34;&gt;the&lt;/span&gt; &lt;span style=&#34;color: #a6e22e&#34;&gt;line&lt;/span&gt; &lt;span style=&#34;color: #a6e22e&#34;&gt;below&lt;/span&gt;&lt;span style=&#34;color: #f8f8f2&#34;&gt;;&lt;/span&gt; &lt;span style=&#34;color: #a6e22e&#34;&gt;configure&lt;/span&gt; &lt;span style=&#34;color: #a6e22e&#34;&gt;depends&lt;/span&gt; &lt;span style=&#34;color: #a6e22e&#34;&gt;on&lt;/span&gt; &lt;span style=&#34;color: #a6e22e&#34;&gt;this&lt;/span&gt; &lt;span style=&#34;color: #f8f8f2&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&#34;color: #a6e22e&#34;&gt;br&lt;/span&gt;&lt;span style=&#34;color: #f8f8f2&#34;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span style=&#34;color: #960050; background-color: #1e0010&#34;&gt;#&lt;/span&gt; &lt;span style=&#34;color: #960050; background-color: #1e0010&#34;&gt;\&lt;/span&gt;&lt;span style=&#34;color: #a6e22e&#34;&gt;DeclareLaTeXClass&lt;/span&gt;&lt;span style=&#34;color: #f8f8f2&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color: #a6e22e&#34;&gt;iitmdiss&lt;/span&gt;&lt;span style=&#34;color: #f8f8f2&#34;&gt;]{&lt;/span&gt;&lt;span style=&#34;color: #a6e22e&#34;&gt;article&lt;/span&gt; &lt;span style=&#34;color: #f8f8f2&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color: #a6e22e&#34;&gt;iitmdiss&lt;/span&gt;&lt;span style=&#34;color: #f8f8f2&#34;&gt;)}&lt;/span&gt; &lt;span style=&#34;color: #f8f8f2&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&#34;color: #a6e22e&#34;&gt;br&lt;/span&gt;&lt;span style=&#34;color: #f8f8f2&#34;&gt;&amp;gt;&lt;/span&gt;  
+    &lt;span style=&#34;color: #960050; background-color: #1e0010&#34;&gt;#&lt;/span&gt; &lt;span style=&#34;color: #a6e22e&#34;&gt;Input&lt;/span&gt; &lt;span style=&#34;color: #a6e22e&#34;&gt;general&lt;/span&gt; &lt;span style=&#34;color: #a6e22e&#34;&gt;definitions&lt;/span&gt; &lt;span style=&#34;color: #f8f8f2&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&#34;color: #a6e22e&#34;&gt;br&lt;/span&gt;&lt;span style=&#34;color: #f8f8f2&#34;&gt;&amp;gt;&lt;/span&gt;  
+    &lt;span style=&#34;color: #a6e22e&#34;&gt;Input&lt;/span&gt; &lt;span style=&#34;color: #a6e22e&#34;&gt;stdclass&lt;/span&gt;&lt;span style=&#34;color: #f8f8f2&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #a6e22e&#34;&gt;inc&lt;/span&gt;  
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;To update this layout in Lyx, you need to reconfigure lyx: Tools &amp;ndash;&amp;gt; Reconfigure. Now resatrt the lyx and you will be able to get iitmdiss layout from Document &amp;ndash;&amp;gt; Settings&amp;hellip; &amp;ndash;&amp;gt; Change Document class.&lt;/li&gt;
 &lt;/ol&gt;
@@ -1200,55 +1242,6 @@
 &lt;p&gt;এই হৃদয়ের চেয়ে বড় কোনো মন্দির-কাবা নাই ।&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://levyflight.github.io/doc/bengali-poem/samyabadi.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Magic of ImageMagick : Command line tool for tiling many images</title>
-      <link>https://levyflight.github.io/2016/03/magic-of-imagemagick--command-line-tool-for-tiling-many-images/</link>
-      <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://levyflight.github.io/2016/03/magic-of-imagemagick--command-line-tool-for-tiling-many-images/</guid>
-      <description>&lt;p&gt;Do you play with images? Do you often merge images to create a single image for you research article? There are many softwares (&lt;a href=&#34;https://www.gimp.org/&#34;&gt;gimp&lt;/a&gt;, &lt;a href=&#34;https://inkscape.org/en/&#34;&gt;inkscape&lt;/a&gt;) by which you can merge images and give a label on top of the images. But if you are looking for a command line tool to merge images one of the best option is &lt;a href=&#34;http://www.imagemagick.org/script/index.php&#34;&gt;ImageMagick&lt;/a&gt;. A very good tutorial for merging images into one image using ImgaeMagick can be found &lt;a href=&#34;http://www.imagemagick.org/Usage/montage/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;To merge &lt;a href=&#34;img/imagemagick/sphere.png&#34;&gt;sphere.png&lt;/a&gt;, &lt;a href=&#34;img/imagemagick/circle.png&#34;&gt;circle.png&lt;/a&gt;, &lt;a href=&#34;img/imagemagick/box.png&#34;&gt;box.png&lt;/a&gt; and &lt;a href=&#34;img/imagemagick/cone.png&#34;&gt;cone.png&lt;/a&gt; the command using montage is&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;montage sphere.png circle.png box.png cone.png -tile 4x1 -geometry +2+2 output.png
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;img/imagemagick/output.png#center&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Here tile gives a layout (in this case 4x1) and geometry gives spaces between images (in this case 2 pixel both in x and y axes).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;To give label to each images:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;montage -label Sphere sphere.png -label Circle circle.png -label Box box.png -label Cone cone.png -tile 4x1 -geometry +2+2 -pointsize 70 output1.png
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;img/imagemagick/output1.png#center&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Label on top of the image:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;To give a label on top of a image one can use convert command with gravity :&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;convert sphere.png -pointsize 70 -draw &amp;quot;gravity northwest fill black text 10,12 &#39;a&#39; &amp;quot; sphere1.png
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;img/imagemagick/sphere1.png&#34; width=&#34;40%&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;And then you can merge all the labelled figures:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;montage sphere1.png circle1.png box1.png cone1.png colbar2.png -tile x1 -geometry +2+2 output2.png
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;img src=&#34;img/imagemagick/output2.png#center&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
