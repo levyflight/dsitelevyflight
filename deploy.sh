@@ -30,5 +30,5 @@ cd ..
 
 git add -A
 git commit -am "updated"
-git push -u origin master
+git push --force -u origin master
 
